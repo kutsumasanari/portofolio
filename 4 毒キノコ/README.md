@@ -1,18 +1,4 @@
-Name
+毒キノコの分類
 ====
 
-Overview
-
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+キノコの[情報](https://signate.jp/competitions/105/data)から重要である特徴値だけを利用し、決定木を適用し、毒キノコの分類を行った。
