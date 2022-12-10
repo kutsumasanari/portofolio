@@ -1,18 +1,4 @@
-Name
+タイタニック号沈没事故の生存者の傾向
 ====
 
-Overview
-
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+タイタニック号沈没事故の[乗客の情報](https://signate.jp/competitions/102/data)を加工し、性別・年齢・船室等級などの情報を組み合わせて可視化することによって、生存者の傾向を分析した。
