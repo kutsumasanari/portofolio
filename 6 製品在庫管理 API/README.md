@@ -35,6 +35,7 @@ Example: {“test”: “test”} → {“error_code”: “4”}
 
 
 | 動作 | エラー内容とエラーコード | 例 |
+| --- | --- | --- |
 | create (登録) | --- | --- |
 | update (更新) | List all new or modified files | --- |
 | delete (削除) | JSON の product_name のデータがデータベースに無い場合、{“error_code”: “4”}を返す | Example: {“test”: “test”} → {“error_code”: “4”} |
