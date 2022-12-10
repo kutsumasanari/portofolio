@@ -1,18 +1,5 @@
-Name
+お弁当の需要予測
 ====
 
-Overview
+お弁当の[販売情報](https://signate.jp/competitions/24/data)から曜日やメニュー等の複数の変数を利用し、線形回帰モデルやアンサンブル学習を適用し、販売されているお弁当の販売数を予測するモデルを作成した。
 
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
