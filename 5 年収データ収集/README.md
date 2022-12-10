@@ -1,18 +1,4 @@
-Name
+エンジニア職年収データの収集
 ====
 
-Overview
-
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+Webサイト「[indeed](https://jp.indeed.com/)」でスクレイピングし、５つのエンジニア職（データエンジニア、データアナリスト、データサイエンティスト、機械学習エンジニア、データアーキテクト）の年収データを収集。得られたデータのヒストグラムを作成した。
