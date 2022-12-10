@@ -9,4 +9,6 @@
 
 ## Usage
 
-[code]uvicorn content.main:app --reload[/code]
+```
+uvicorn content.main:app --reload
+```
