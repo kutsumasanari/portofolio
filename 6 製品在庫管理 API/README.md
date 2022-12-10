@@ -10,3 +10,15 @@
 ```
 uvicorn content.main:app --reload
 ```
+
+・受け取った JSON の項目が、product_name, price が揃っていなかった場合、{“error_code”: “1”}を返す
+
+Example) POST {“product_name”: “iPhone”} → {“error_code”: “1”}
+
+・price の値が数字ではなかった場合、{“error_code”: “2”}を返す
+
+ Example) {“product_name”: “iPhone”, “price”: “test”} → {“error_code”: “2”}
+ 
+・price の値がマイナスだった場合、{“error_code”: “3”}を返す
+
+ Example) {“product_name”: “iPhone”, “price”: -1000} → {“error_code”: “3”}
