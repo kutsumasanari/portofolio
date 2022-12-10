@@ -5,9 +5,7 @@
 
 ## Demo
 
-## Requirement
-
-## Usage
+## 使い方
 
 ```
 uvicorn content.main:app --reload
