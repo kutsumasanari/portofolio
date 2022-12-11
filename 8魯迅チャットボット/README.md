@@ -1,12 +1,11 @@
-製品の在庫管理API
+魯迅チャットボット
 ====
 
-製品の在庫管理の FastAPI を作成した。製品名（product_name）、製品価格（price）といった情報を登録（create）・参照（read）・更新（update）・削除（delete）できた 。操作に不備があった場合、エラーコードを表示した。
-さらに、このFastAPIをAWSにデプロイした。
+[魯迅の小説](https://www.aozora.gr.jp/index_pages/person1124.html)を学習データに使い、文章を予測できるようにSeq2Seqのモデルを訓練し、魯迅風の返事や対話文を生成した。魯迅チャットボットを作った。
 
 ## Demo
 
-<img src="https://github.com/kutsumasanari/portofolio/blob/master/8魯迅チャットボット/demo.gif" width="600px">
+<img src="https://github.com/kutsumasanari/portofolio/blob/master/8%E9%AD%AF%E8%BF%85%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88/Demo.gif" width="600px">
 
 ## Usage
 
