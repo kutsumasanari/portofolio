@@ -6,7 +6,7 @@
 
 ## Demo
 
-![image](https://github.com/kutsumasanari/portofolio/6製品在庫管理 API/MyVideo_1.gif)
+![image](https://github.com/kutsumasanari/portofolio/6製品在庫管理API/MyVideo_1.gif)
 
 ## 使い方
 
